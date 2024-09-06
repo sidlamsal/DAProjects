@@ -1,4 +1,4 @@
-This purpose of this project was to model the selection criteria for the NBA All-Star selection and try to explain any abnormalities and predict correctly.
+This purpose of this project was to see how well multiple machinse learning models can model the selection criteria for the NBA All-Star selection and try to explain any abnormalities and predict correctly.
 
 Files:
 - ALL_STAR.R: R source code for the modeling and visualization
